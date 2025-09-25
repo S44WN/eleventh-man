@@ -71,22 +71,6 @@ venv.bak/
 *.weights
 
 # Dataset and media files
-*.mp4
-*.avi
-*.mov
-*.wmv
-*.flv
-*.webm
-*.mkv
-*.m4v
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-*.svg
-*.webp
 
 # YOLO specific
 runs/
@@ -95,10 +79,10 @@ wandb/
 
 # Input/Output directories (customize as needed)
 # input_video/ - keeping input videos tracked
-output_video/
-results/
-predictions/
-outputs/
+# output_video/
+# results/
+# predictions/
+# outputs/
 
 # Logs
 *.log
